@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8079b41a-f84f-497e-b443-bbeffb641833" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8079b41a-f84f-497e-b443-bbeffb641833" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caixukun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P14 Requests+正则表达式抓取猫眼电影.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P14 Requests+正则表达式抓取猫眼电影.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P14.text" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P14.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P15 分析Ajax请求并抓取今日头条美图.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P15 分析Ajax请求并抓取今日头条美图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P15Mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P15Mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P16 使用Selenium模拟浏览器抓取数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P16 使用Selenium模拟浏览器抓取数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P16Mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P16Mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P18 使用代理处理反爬.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P18 使用代理处理反爬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/P18Mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/P18Mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/pyimagesearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/非scrapy的爬虫库/pyimagesearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python爬虫实战/taobao/taobao/spiders/taobaouser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫实战/taobao/taobao/spiders/taobaouser.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +27,13 @@
     <SUITE FILE_PATH="coverage/IntelliJ_python$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1544014003744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$xd.coverage" NAME="xd Coverage Results" MODIFIED="1540697979632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$ReadCsv.coverage" NAME="ReadCsv Coverage Results" MODIFIED="1539584031478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习竞赛" />
+    <SUITE FILE_PATH="coverage/IntelliJ_python$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1591707561269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬虫实战/scrapy高级/wxapp/wxapp/wxapp" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$Preprocessor.coverage" NAME="Preprocessor Coverage Results" MODIFIED="1542167817638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习竞赛/NLP-master" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$DataDetail__1_.coverage" NAME="DataDetail (1) Coverage Results" MODIFIED="1539850159972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习竞赛/NLP-master" />
-    <SUITE FILE_PATH="coverage/IntelliJ_python$filter__.coverage" NAME="filter() Coverage Results" MODIFIED="1551535908500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/特殊的函数" />
+    <SUITE FILE_PATH="coverage/IntelliJ_python$pygta5.coverage" NAME="pygta5 Coverage Results" MODIFIED="1552963156640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Opencv" />
+    <SUITE FILE_PATH="coverage/IntelliJ_python$filter__.coverage" NAME="filter() Coverage Results" MODIFIED="1555842043882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/特殊的函数" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$combine.coverage" NAME="combine Coverage Results" MODIFIED="1542089032450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/特殊的函数" />
+    <SUITE FILE_PATH="coverage/IntelliJ_python$start.coverage" NAME="start Coverage Results" MODIFIED="1591680856694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬虫实战/scrapy高级/qsbk/qsbk" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$Demo01__1_.coverage" NAME="Demo01 (1) Coverage Results" MODIFIED="1539432179570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KNN实战" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$run.coverage" NAME="run Coverage Results" MODIFIED="1543464879435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬虫实战/CookiesPool-master" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$text01.coverage" NAME="text01 Coverage Results" MODIFIED="1542041194074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习竞赛/NLP-master" />
@@ -38,13 +54,14 @@
     <SUITE FILE_PATH="coverage/IntelliJ_python$test01__1_.coverage" NAME="test01 (1) Coverage Results" MODIFIED="1544014122582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$P14.coverage" NAME="P14 Coverage Results" MODIFIED="1538455985175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python实战" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$train.coverage" NAME="train Coverage Results" MODIFIED="1542167875748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习竞赛/NLP-master" />
-    <SUITE FILE_PATH="coverage/IntelliJ_python$.coverage" NAME="语法糖 Coverage Results" MODIFIED="1551538879367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/特殊的函数" />
+    <SUITE FILE_PATH="coverage/IntelliJ_python$.coverage" NAME="语法糖 Coverage Results" MODIFIED="1555842364618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/特殊的函数" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$Demo01.coverage" NAME="Demo01 Coverage Results" MODIFIED="1539065925852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习情感分析" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$datatest.coverage" NAME="datatest Coverage Results" MODIFIED="1540633927136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$pyimagesearch__1_.coverage" NAME="pyimagesearch (1) Coverage Results" MODIFIED="1543488896719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬虫实战" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1544354962070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬虫实战/lago" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$eval__.coverage" NAME="eval() Coverage Results" MODIFIED="1542103572698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/特殊的函数" />
     <SUITE FILE_PATH="coverage/IntelliJ_python$P15_Ajax.coverage" NAME="P15 分析Ajax请求并抓取今日头条美图 Coverage Results" MODIFIED="1538490605880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python爬虫实战" />
+    <SUITE FILE_PATH="coverage/IntelliJ_python$pygta5__1_.coverage" NAME="pygta5 (1) Coverage Results" MODIFIED="1552963842107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -68,27 +85,6 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="IntelliJ python" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/特殊的函数/语法糖.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="55" column="11" lean-forward="true" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python爬虫实战/zhihuuser/zhihuuser/spiders/zhihu.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -111,8 +107,9 @@
       <find>yS</find>
       <find>_t\)</find>
       <find>data</find>
-      <find>(.*?):(.*)</find>
       <find>(.*):(.*)</find>
+      <find>[\w]+:[\s\w]+</find>
+      <find>(.*?):(.*)</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
@@ -122,167 +119,60 @@
       <replace>ys</replace>
       <replace>\)</replace>
       <replace>'$1':'$2',</replace>
-      <replace>'$1':'$2',</replace>
+      <replace>'(.*?)':'(.*)'</replace>
+      <replace>'$1':'$2'</replace>
+      <replace>&quot;$1&quot;: &quot;$2&quot;</replace>
     </replaceStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/机器学习竞赛/DataDetail.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-JD-master/Preprocessor.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/Processing.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/model.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-JD-master/train.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/CookiesPool-master/cookiespool/db.py" />
-        <option value="$PROJECT_DIR$/阿萨大大.py" />
-        <option value="$PROJECT_DIR$/初见机器学习/KNN/sklearn中的kNN.py" />
-        <option value="$PROJECT_DIR$/datatest.py" />
-        <option value="$PROJECT_DIR$/xd.py" />
-        <option value="$PROJECT_DIR$/装饰器.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/selenium_taobao/taobao.py" />
-        <option value="$PROJECT_DIR$/初见机器学习/KNN/model_selection.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/text01.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/生成褒贬词表.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/Processing.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/TensorMethod.py" />
-        <option value="$PROJECT_DIR$/特殊的函数/combine.py" />
-        <option value="$PROJECT_DIR$/特殊的函数/eval().py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/TensorTrain.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/tensorflow_train.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/神经网络_train.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/卷积神经网络_train.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/ReadFile.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/DataDetail.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/train.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/weibosearch/weibosearch/spiders/weibo.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/zhihuuser/zhihuuser/pipelines.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/zhihuuser/scrapy.cfg" />
-        <option value="$PROJECT_DIR$/test001.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/mlWeb/test01.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/middlewares.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/CookiesPool-master/README.md" />
-        <option value="$PROJECT_DIR$/特殊的函数/packed.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/P18 使用代理处理反爬.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/settings.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/items.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/spiders/pyimagesearch.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/pipelines.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/筛选器test.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/LSTM_train.py" />
-        <option value="$PROJECT_DIR$/机器学习竞赛/NLP-master/Preprocessor.py" />
-        <option value="$PROJECT_DIR$/test02.py" />
-        <option value="$PROJECT_DIR$/test03.py" />
-        <option value="$PROJECT_DIR$/test01.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/lago/lago/settings.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/lago/test01.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/lago/lago/spiders/lagou.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/拉钩网.py" />
-        <option value="$PROJECT_DIR$/Python爬虫实战/pyimagesearch.py" />
-        <option value="$PROJECT_DIR$/特殊的函数/语法糖.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="124" />
+    <option name="y" value="48" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python爬虫实战" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python爬虫实战" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python爬虫实战" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python爬虫实战" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
-              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-              <item name="初见机器学习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntelliJ_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ_python" type="462c0819:PsiDirectoryNode" />
-              <item name="特殊的函数" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1eLF1wQismc1xl3Nem94c8eQWxJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="log&#9;null&#9;null&#10;keyword&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538669758712" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anaconda3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deya_GP1_workspace/deya_erp_api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ_python\Python爬虫实战\scrapy高级" />
+      <recent name="D:\IntelliJ_python\Python爬虫实战\非scrapy的爬虫库" />
       <recent name="D:\IntelliJ_python\Python爬虫实战" />
       <recent name="D:\IntelliJ python\机器学习竞赛\NLP-master\corpus" />
       <recent name="D:\IntelliJ python\机器学习竞赛\NLP-master" />
-      <recent name="D:\IntelliJ python\Python爬虫实战\selenium_taobao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntelliJ_python\机器学习竞赛\NLP-master" />
       <recent name="D:\IntelliJ python" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.语法糖">
-    <configuration name="拉钩网" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.start (1)">
+    <configuration name="语法糖" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntelliJ python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,12 +180,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python爬虫实战" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/特殊的函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python爬虫实战/拉钩网.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/特殊的函数/语法糖.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pyimagesearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pygta5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntelliJ python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,12 +246,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python爬虫实战" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python爬虫实战/pyimagesearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/pygta5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pygta5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntelliJ python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,12 +268,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python爬虫实战/lago" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Opencv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\IntelliJ_python\Python爬虫实战\拉钩网.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Opencv/pygta5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntelliJ python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python爬虫实战/scrapy高级/wxapp/wxapp/wxapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python爬虫实战/scrapy高级/wxapp/wxapp/wxapp/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntelliJ python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python爬虫实战/scrapy高级/qsbk/qsbk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python爬虫实战/scrapy高级/qsbk/qsbk/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,19 +327,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.拉钩网" />
-      <item itemvalue="Python.pyimagesearch" />
-      <item itemvalue="Python.test01" />
-      <item itemvalue="Python.filter()" />
       <item itemvalue="Python.语法糖" />
+      <item itemvalue="Python.filter()" />
+      <item itemvalue="Python.pygta5 (1)" />
+      <item itemvalue="Python.pygta5" />
+      <item itemvalue="Python.start" />
+      <item itemvalue="Python.start (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.语法糖" />
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start" />
         <item itemvalue="Python.filter()" />
-        <item itemvalue="Python.pyimagesearch" />
-        <item itemvalue="Python.拉钩网" />
-        <item itemvalue="Python.test01" />
+        <item itemvalue="Python.pygta5 (1)" />
+        <item itemvalue="Python.pygta5" />
       </list>
     </recent_temporary>
   </component>
@@ -466,11 +401,55 @@
       <workItem from="1550411066785" duration="27000" />
       <workItem from="1551535724687" duration="323000" />
       <workItem from="1551536502709" duration="2382000" />
+      <workItem from="1551929197479" duration="3403000" />
+      <workItem from="1551935576136" duration="316000" />
+      <workItem from="1552218172376" duration="394000" />
+      <workItem from="1552220206087" duration="1431000" />
+      <workItem from="1552272989704" duration="190000" />
+      <workItem from="1552913078339" duration="1975000" />
+      <workItem from="1552922625161" duration="719000" />
+      <workItem from="1552960876251" duration="1156000" />
+      <workItem from="1552962949221" duration="1089000" />
+      <workItem from="1552964054867" duration="11000" />
+      <workItem from="1552964086693" duration="12000" />
+      <workItem from="1555841896724" duration="526000" />
+      <workItem from="1556943505269" duration="1545000" />
+      <workItem from="1556946119745" duration="1187000" />
+      <workItem from="1556950660919" duration="54000" />
+      <workItem from="1577709420387" duration="1216000" />
+      <workItem from="1578226074186" duration="679000" />
+      <workItem from="1583403380907" duration="948000" />
+      <workItem from="1583490554613" duration="668000" />
+      <workItem from="1584614754646" duration="2384000" />
+      <workItem from="1584618399645" duration="996000" />
+      <workItem from="1584619439544" duration="87000" />
+      <workItem from="1584620642997" duration="1644000" />
+      <workItem from="1584622618763" duration="7577000" />
+      <workItem from="1584667587567" duration="6043000" />
+      <workItem from="1584712841262" duration="660000" />
+      <workItem from="1584756189020" duration="35000" />
+      <workItem from="1585283402027" duration="2180000" />
+      <workItem from="1585581151135" duration="58000" />
+      <workItem from="1585929439396" duration="480000" />
+      <workItem from="1585974632448" duration="4634000" />
+      <workItem from="1586751774546" duration="2617000" />
+      <workItem from="1586864709498" duration="4742000" />
+      <workItem from="1587429042707" duration="119000" />
+      <workItem from="1591498492634" duration="301000" />
+      <workItem from="1591619000231" duration="2411000" />
+      <workItem from="1591669290959" duration="833000" />
+      <workItem from="1591670336378" duration="1533000" />
+      <workItem from="1591672148837" duration="2336000" />
+      <workItem from="1591675960054" duration="2369000" />
+      <workItem from="1591681328063" duration="6041000" />
+      <workItem from="1591701968542" duration="3249000" />
+      <workItem from="1591705438646" duration="2137000" />
+      <workItem from="1591776825656" duration="1995000" />
+      <workItem from="1591779662508" duration="3385000" />
+      <workItem from="1591845465250" duration="1732000" />
+      <workItem from="1594092878263" duration="718000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110948000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,329 +460,14 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49924356" visible="true" weight="0.25054705" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50075644" side_tool="true" weight="0.28704783" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3288889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6587983" weight="0.3512035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49889135" weight="0.24" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.34120172" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6563193" weight="0.39" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3131313" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="SciView" order="7" weight="0.73698336" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Database" order="9" weight="0.32850242" />
-      <window_info anchor="right" id="JuliaSciView" order="10" weight="0.32957596" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/机器学习竞赛/NLP-master/ReadFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习竞赛/NLP-master/LSTM_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习竞赛/NLP-master/卷积神经网络_train.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/pandas/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/pandas/io/parsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="938" selection-start-line="938" selection-end-line="938" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/pandas/io/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/sklearn/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="133" column="27" lean-forward="true" selection-start-line="133" selection-start-column="27" selection-end-line="133" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test02.py" />
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/pandas/core/series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="3193" selection-start-line="3193" selection-end-line="3193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习竞赛/NLP-master/Preprocessor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="86" column="51" lean-forward="true" selection-start-line="86" selection-start-column="51" selection-end-line="86" selection-end-column="51" />
-          <folding>
-            <element signature="e#14#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test01.py" />
-    <entry file="file://$PROJECT_DIR$/test03.py" />
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/testscrapy/testscrapy/spiders/httpbin.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/testscrapy/testscrapy/spiders/baidu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/testscrapy/testscrapy/spiders/zhihu.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/lago/lago/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/lago/lago/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="493" selection-start-line="493" selection-end-line="493" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/lago/lago/spiders/lagou.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="16" column="124" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="124" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/lago/lago/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/拉钩网.py" />
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/zhihuuser/zhihuuser/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/zhihuuser/zhihuuser/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/zhihuuser/zhihuuser/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/P14 Requests+正则表达式抓取猫眼电影.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/P15 分析Ajax请求并抓取今日头条美图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2262">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/combine.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/eval().py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/filter().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/taobao/taobao/spiders/taobaouser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/taobao/taobao/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/openFiles.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/P14.text">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/计时器.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/初见机器学习/Test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/初见机器学习/array_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尝试机器学习竞赛/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尝试机器学习竞赛/DataDetail.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尝试机器学习竞赛/config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尝试机器学习竞赛/ReadCsv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/packed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习竞赛/NLP-JD-master/DataSpider.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习竞赛/NLP-JD-master/Preprocessor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1482" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/mlWeb/mlWeb/spiders/pyimagesearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/quotetutorial/quotetutorial/spiders/quotes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/pyimagesearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntelliJ python.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫实战/zhihuuser/zhihuuser/spiders/zhihu.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/特殊的函数/语法糖.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="55" column="11" lean-forward="true" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594093869368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594093869368" />
   </component>
   <component name="masterDetails">
     <states>

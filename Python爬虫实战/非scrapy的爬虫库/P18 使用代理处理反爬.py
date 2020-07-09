@@ -1,13 +1,14 @@
 import requests
 from urllib.parse import urlencode
-from lxml.etree import XMLSyntaxError
+from lxml import html
 from requests.exceptions import ConnectionError
 from pyquery import PyQuery as pq
 import pymongo
-from Python爬虫实战.P18Mongo import *
+from Python爬虫实战.非scrapy的爬虫库.P18Mongo import *
 
 client = pymongo.MongoClient('localhost')
 db = client['weixin']
+etree = html.etree
 
 headers = {
     'Cookie': 'CXID=F470FEDC66D84E48845AD13130FA9B39; SUID=45EDE97A3965860A5A476E52000981A2; SUV=007E539673C11CF85B7BFB60B5B43044; wuid=AAGBzfWtIgAAAAqLEm/bHg4AGwY=; ad=$kllllllll2byPlClllllVmsKpcllllltloqyZllll9lllll4qxlw@@@@@@@@@@@; IPLOC=CN3301; ABTEST=7|1538661464|v1; SNUID=1A4B46FC8E8AF9E8058821B68FB51545; weixinIndexVisited=1; sct=1; JSESSIONID=aaaJM6jyK82gL4ndS9Wyw',
@@ -101,7 +102,7 @@ def parse_detail(html):
             'nickname':nickname,
             'wechat':wechat
         }
-    except XMLSyntaxError:
+    except etree.XMLSyntaxError:
         return None
 
 def save_to_mongo(data):

@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from pyquery import PyQuery as pq
-from Python爬虫实战.P16Mongo import *
+from Python爬虫实战.非scrapy的爬虫库.P16Mongo import *
 import pymongo
 
 client = pymongo.MongoClient(MONGO_URL)

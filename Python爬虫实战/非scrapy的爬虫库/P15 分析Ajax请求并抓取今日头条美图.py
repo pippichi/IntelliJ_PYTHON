@@ -4,7 +4,7 @@ from requests.exceptions import RequestException
 from bs4 import BeautifulSoup
 import json
 import re
-from Python爬虫实战.P15Mongo import *
+from Python爬虫实战.非scrapy的爬虫库.P15Mongo import *
 import pymongo
 from hashlib import md5
 import os
